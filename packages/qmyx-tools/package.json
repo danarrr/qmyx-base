@@ -1,6 +1,6 @@
 {
   "name": "@qmyx/qmyx-tools",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "qmyx utils",
   "author": "danarrr <867904420@qq.com>",
   "homepage": "",
@@ -20,4 +20,3 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
 }
-
