@@ -1,4 +1,4 @@
-// code标识
+// code标识 区分三个端
 enum ErrCode {
     BFF_ERROR = 1,
     GO_GRPC_ERROR = 2,
