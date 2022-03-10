@@ -1,6 +1,6 @@
 {
   "name": "@qmyx/bff-tools",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "danarrr",
   "description": "extend for bff",
   "main": "lib/index.js",
