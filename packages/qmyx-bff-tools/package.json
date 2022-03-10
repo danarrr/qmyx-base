@@ -14,5 +14,8 @@
     "axios": "^0.26.0",
     "typescript": "^4.6.2"
   },
-  "gitHead": "e952c2a3fb0d57562320d7cb4aaaa60e6de4690b"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "dd4e14a8659a2a14eac1c0c09ba8d64384610718"
 }
