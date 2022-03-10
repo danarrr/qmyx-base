@@ -1,0 +1,17 @@
+{
+  "name": "@qmyx/bff-tools",
+  "version": "1.0.0",
+  "author": "danarrr",
+  "description": "extend for bff",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "yarn run tsc",
+    "build:watch": "yarn run tsc --w"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "axios": "^0.26.0",
+    "typescript": "^4.6.2"
+  }
+}
